@@ -4,7 +4,7 @@ title: Sarin Tiatragul
 
 # Username (this should match the folder name)
 authors:
-- Putter
+- admin
 
 # Is this the primary user of the site?
 superuser: true

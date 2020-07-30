@@ -4,7 +4,7 @@
 title: "Why and how did I become a multicultural community radio host?"
 subtitle: "Bringing you great Thai songs, once a month"
 summary: ""
-authors: [Putter]
+authors: [admin]
 tags: [community, radio, expalain]
 categories: [radio]
 date: 2020-07-30T18:53:54+10:00

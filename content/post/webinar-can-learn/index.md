@@ -4,13 +4,13 @@
 title: "3 things webinar presentors can learn from radio hosts"
 subtitle: ""
 summary: "Here are the **3** valuable lessons I learned from hosting 'Dek ACT'...."
-authors: [Putter]
+authors: [admin]
 tags: [community, radio, expalain]
 categories: [radio]
 date: 2020-07-30T18:59:57+10:00
 lastmod: 2020-07-30T18:59:57+10:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,7 +34,7 @@ projects: []
 
 A lof of people have this image that being on radio is like standing on a stage with a loud microphone addressing a crowd of interested listeners. Realistically, you are only talkig to one person, the listener. Addressing listeners directly with words like 'you' and 'your' can help make the show feel more personal and retain their attention more. If you are doing a webinar, your listeners are probably isolated. I think presenters will benefit from addressing the listeners directly. 
 
-2. 
+2. A narrative 
 
 
 3. Audio editing, a transferable skill for hosting a podcasts!
