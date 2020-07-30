@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sarin Tiatragul
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Australian National University
+  url: "anu.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a PhD candidate at the Research School of Biology (ANU)
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroevolution
+- Ecology
+- Conservation Biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biology - Ecology & Evolution
+    institution: Australian National University
+    year: current
+  - course: MSc in Biological Sciences
+    institution: Auburn University
+    year: 2018
+  - course: BSc in Biology with Research Concentration
+    institution: Gonzaga University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/thaiplhops
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stiatragul
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I like learning about how life form come to be the way they are and how we can appropriately care for them today and into the future.  I enjoy the challenge of working in aspects of biology that are overlooked (could be said about every aspect I suppose), making scientific knowledge understandable for people around the world and bringing people together to do something useful. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am a PhD student in the Keogh Lab at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blind snakes (genus Anilios).  Before starting at the ANU I completed my M.S. in Biological Sciences at Auburn University under the advisory of Dr. Dan Warner (Warner Laboratory).
+
+Beyond research, I am keen on photography, scuba diving, football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life.
