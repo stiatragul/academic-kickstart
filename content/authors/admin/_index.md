@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/thaiplhops
+  link: https://twitter.com/puttert
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=TwZonhIAAAAJ
@@ -72,6 +72,6 @@ user_groups:
 
 I like learning about how life form come to be the way they are and how we can appropriately care for them today and into the future.  I enjoy the challenge of working in aspects of biology that are overlooked (could be said about every aspect I suppose), making scientific knowledge understandable for people around the world and bringing people together to do something useful. 
 
-Currently, I am a PhD student in the Keogh Lab at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blind snakes (genus Anilios).  Before starting at the ANU I completed my M.S. in Biological Sciences at Auburn University under the advisory of Dr. Dan Warner (Warner Laboratory).
+Currently, I am a PhD student in the Keogh Lab at the Australian National University (ANU). My thesis focuses on the evolutionary relationships among Australian blind snakes (genus Anilios). Before starting at the ANU I completed my M.S. in Biological Sciences at Auburn University under the advisory of Dr. Dan Warner (Warner Laboratory).
 
-Beyond research, I am keen on photography, scuba diving, football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life.
+Beyond research, I am keen on photography, scuba diving, football (soccer), and seeing as much of the world as possible. I enjoy spending time in nature and immersing myself into different cultures to appreciate the (bio)diversity of life. I also ocassionally host a Thai radio program on CMS Radio.
