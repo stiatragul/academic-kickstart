@@ -5,7 +5,7 @@ draft: false
 title: October 2017 Field Work
 type: post
 url: /2017/11/02/october-2017-field-work/
-tags: [archive, some-might-science]s
+tags: [archive, some-might-science]
 ---
 
 A little late on this one but here are some pictures from our October field work in Palm Coast, FL.
