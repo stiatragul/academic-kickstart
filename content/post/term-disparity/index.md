@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Terms I've picked up from reading Geometric Morphometrics for Biologists"
 authors: [admin]
 tags: [notes, terms]
-categories: [notes]
+categories: []
 date: 2020-08-05T11:04:37+10:00
 lastmod: 2020-08-05T11:04:37+10:00
 featured: false

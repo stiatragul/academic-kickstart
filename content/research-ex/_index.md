@@ -28,6 +28,9 @@ This project is supported in part by the Australian Research Council Discovery G
 
 
 ## 2017-2018
+
+![me measuring turtle](experience/mg-4256_orig.jpg)
+
 **Warner Lab - anoles**
 
 **Auburn University | Auburn, AL, USA**
@@ -41,6 +44,9 @@ Other than my thesis, I also assist in other on-going projects in the Warner Lab
 Co-authors: Nathaniel Pavlik, Josh Hall, and Dan Warner
 
 ## 2015
+
+![me measuring turtle](experience/mg-9418_orig.jpg)
+
 **Warner Lab - turtles and anoles**
 
 **University of Alabama-Birmingham | Birmingham, AL, USA**

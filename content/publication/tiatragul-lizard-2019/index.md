@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "Abstract.  Nesting success is critical for oviparous species to maintain viable populations. Many species often do not provide parental care (e.g. oviparous rep"
 featured: false
 publication: "*Biological Journal of the Linnean Society*"
-url_pdf: "https://academic.oup.com/biolinnean/article/126/3/392/5288448"
+url_pdf: ""
 doi: "10.1093/biolinnean/bly204"
 ---
 

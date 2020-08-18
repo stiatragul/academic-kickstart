@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "Abstract.  Urbanization transforms many aspects of natural landscapes and poses many new challenges for individual survival and population persistence. Thus, ur"
 featured: false
 publication: "*Journal of Urban Ecology*"
-url_pdf: "https://academic.oup.com/jue/article/6/1/juaa001/5732471"
+url_pdf: ""
 doi: "10.1093/jue/juaa001"
 ---
 
