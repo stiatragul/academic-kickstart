@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "เด็ก เอซีที EP 10"
 subtitle: "Legends and ghosts"
 summary: "We talk about Thai legends and ghosts on this episode!"
