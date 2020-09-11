@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DEK-ACT-EP-10"
+title: "เด็ก เอซีที EP 10"
 subtitle: "Legends and ghosts"
 summary: "We talk about Thai legends and ghosts on this episode!"
 authors: [admin]
