@@ -33,3 +33,4 @@ Me, Bank, Mamiew, and Kan.
 
 In this week's episode p'Mamiew tells the legend of the Ganga Devi and p'Kan reveals the history of the famous "Toong kula rong hai" in Northeast Thailand. I share a study about how Thai horro films have changed through time and Bank distiniguishes the Thai terms for 'ghost' and 'spirit.'
 
+Updated my website to wowchemy too!
