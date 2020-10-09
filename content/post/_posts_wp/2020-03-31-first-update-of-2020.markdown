@@ -13,7 +13,7 @@ tags:
 - ANU
 ---
 
-I'm writing this from my house in Canberra. A several weeks ago, we started hearing reports of the novel corona virus outbreak in Hubei province of China. Today, the virus, now known as COVID-19 (Corona Virus Disease 19) has swept across the world and the number of infections have continued to go up. However, the rate of infection in some countries appear to be going down. At the time of writing this, there are 786,876 infection worldwide.
+I'm writing this from my house in Canberra. A several weeks ago, we started hearing reports of the novel corona virus outbreak in Hubei province of China. Today, the virus, now known as COVID-19 (SARS-CoV-2) has swept across the world and the number of infections have continued to go up. However, the rate of infection in some countries appear to be going down. At the time of writing this, there are 786,876 infection worldwide.
 
 The ANU has transitioned to remote working and online learning to adhere to "social distancing" rules. This is why I'm at home!
 
