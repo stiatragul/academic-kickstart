@@ -12,3 +12,10 @@ header:
   caption: ""
   image: ""
 ---
+
+
+<!-- helpful commands -->
+
+
+# hugo new post/..... 
+# this will make a folder for the blog post
