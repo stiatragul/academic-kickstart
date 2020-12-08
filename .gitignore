@@ -4,3 +4,11 @@
 # Hugo
 resources/
 public/
+
+
+# media files
+*.mp3
+*.vid
+*.jpg
+*.jpeg
+*.png
