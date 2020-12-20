@@ -28,7 +28,10 @@ image:
 projects: []
 ---
 
-[Listen here](https://anu365-my.sharepoint.com/personal/u6841845_anu_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu6841845%5Fanu%5Fedu%5Fau%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FTHAI%2D20200814%5Fep9%2Emp3&parent=%2Fpersonal%2Fu6841845%5Fanu%5Fedu%5Fau%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&originalPath=aHR0cHM6Ly9hbnUzNjUtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdTY4NDE4NDVfYW51X2VkdV9hdS9FZkE5dUw5aGtabE5zdkJPbnc3NEFKd0JienkwSlpQRnp3MHhMbmRPWkl2dm1nP3J0aW1lPXV6YW5hLTRfMkVn)
+Listen here!
+{{< audio src="../../media_post/podcasts/THAI-20200814_ep9.mp3" >}}
+
+
 
 Hosts: 
 Me, Bank, Mamiew, and Kan. 

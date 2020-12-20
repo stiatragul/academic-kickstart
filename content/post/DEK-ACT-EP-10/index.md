@@ -26,7 +26,9 @@ image:
 projects: []
 ---
 
-[Listen here](https://anu365-my.sharepoint.com/personal/u6841845_anu_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu6841845%5Fanu%5Fedu%5Fau%2FDocuments%2Fcabinet%5Fpersonal%2FDekACT%2FTHAI%2D20200911%5Fep10%2Emp3&parent=%2Fpersonal%2Fu6841845%5Fanu%5Fedu%5Fau%2FDocuments%2Fcabinet%5Fpersonal%2FDekACT&originalPath=aHR0cHM6Ly9hbnUzNjUtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdTY4NDE4NDVfYW51X2VkdV9hdS9FZGpSaEpHb3FmVkNoNVRlY2o4VkxPNEJzcEhZYkxpWVJlQTVaOHp1ck03eUVnP3J0aW1lPTcxUEVCeU5XMkVn)
+Listen here!
+{{< audio src="../../media_post/podcasts/THAI-20200911_ep10.mp3" >}}
+
 
 Hosts: 
 Me, Bank, Mamiew, and Kan. 
